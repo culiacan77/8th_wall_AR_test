@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 480,
+    "height": 640,
+    "isRotated": false,
+    "originalWidth": 480,
+    "originalHeight": 640
+  },
+  "imagePath": "image-targets/AR_test_AB_luminance_original_luminance.jpg",
+  "metadata": null,
+  "name": "AR_test_AB_luminance_original",
+  "resources": {
+    "originalImage": "AR_test_AB_luminance_original_original.jpg",
+    "croppedImage": "AR_test_AB_luminance_original_cropped.jpg",
+    "thumbnailImage": "AR_test_AB_luminance_original_thumbnail.jpg",
+    "luminanceImage": "AR_test_AB_luminance_original_luminance.jpg"
+  },
+  "created": 1780758841411,
+  "updated": 1780758841411
+}

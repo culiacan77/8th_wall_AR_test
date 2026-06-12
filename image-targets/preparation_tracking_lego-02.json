@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 347,
+    "left": 0,
+    "width": 683,
+    "height": 910,
+    "isRotated": false,
+    "originalWidth": 683,
+    "originalHeight": 1606
+  },
+  "imagePath": "image-targets/preparation_tracking_lego-02_luminance.jpg",
+  "metadata": null,
+  "name": "preparation_tracking_lego-02",
+  "resources": {
+    "originalImage": "preparation_tracking_lego-02_original.jpg",
+    "croppedImage": "preparation_tracking_lego-02_cropped.jpg",
+    "thumbnailImage": "preparation_tracking_lego-02_thumbnail.jpg",
+    "luminanceImage": "preparation_tracking_lego-02_luminance.jpg"
+  },
+  "created": 1780944333739,
+  "updated": 1780944333739
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 28,
+    "left": 0,
+    "width": 604,
+    "height": 805,
+    "isRotated": true,
+    "originalWidth": 604,
+    "originalHeight": 863
+  },
+  "imagePath": "image-targets/Capture d’écran 2025-10-11 155602_luminance.png",
+  "metadata": null,
+  "name": "Capture d’écran 2025-10-11 155602",
+  "resources": {
+    "originalImage": "Capture d’écran 2025-10-11 155602_original.png",
+    "croppedImage": "Capture d’écran 2025-10-11 155602_cropped.png",
+    "thumbnailImage": "Capture d’écran 2025-10-11 155602_thumbnail.png",
+    "luminanceImage": "Capture d’écran 2025-10-11 155602_luminance.png"
+  },
+  "created": 1780758971003,
+  "updated": 1780758971003
+}
